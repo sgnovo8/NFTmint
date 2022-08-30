@@ -1,1 +1,2 @@
 # NFTmint
+Create NFTmint contract
